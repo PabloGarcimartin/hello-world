@@ -1,0 +1,23 @@
+{
+  "name": "hello-world",
+  "version": "0.0.1",
+  "engine": "node >= 6.0.0",
+  "description": "Test repository",
+  "license": "MIT",
+  "author": "Pablo Garcimartin <pablogarcimartinruiz@gmail.com>",
+  "contributors": [],
+  "main": "sample.js",
+  "files": [],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PabloGarcimartin/hellow-world.git"
+  },
+  "bugs": {},
+  "dependencies": {},
+  "devDependencies": {
+    "wTesting": "",
+    "wTools": "."
+  },
+  "keywords": []
+}
